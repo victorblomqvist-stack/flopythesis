@@ -54,11 +54,15 @@ cover/
 #files 
 /csv_files/
 /images/
+/flopy_env/
+/cube/
+/tunneldata/
 
 # Translations
 *.mo
 *.pot
 *.csv
+*.png
 
 # Django stuff:
 *.log
