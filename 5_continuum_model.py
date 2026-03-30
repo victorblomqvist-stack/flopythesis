@@ -1,3 +1,6 @@
+# Input: Conductivity tensor for each rotation, stored in a csv file.
+# Output: Continuum model with anisotropic conductivity, visualized in 3D with PyVista.
+
 """Build a continuum MODFLOW 6 model where hydraulic conductivity comes from a tensor.
 
 Workflow:

@@ -1,5 +1,10 @@
 # Here the tensors will be plotted to evaluate form
 
+# Input
+    # Conductivity tensor for each rotation, stored in a csv file. 
+# Output
+     # Shape pof conductivity tensor in 3D. Plotted to evaluate if it is ellipse-like.
+
 """Track rotated permeability vectors and test for ellipse-like behavior.
 
 Expected CSV columns:
